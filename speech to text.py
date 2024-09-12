@@ -1,4 +1,4 @@
-# Import the necessary libraries Rudra
+# Import the necessary libraries Rudra Pratap
 import speech_recognition as sr  # Library for speech recognition
 import pyttsx3  # Library for text-to-speech functionality
 import os  # Library for interacting with the operating system
